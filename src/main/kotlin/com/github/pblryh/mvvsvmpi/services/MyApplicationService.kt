@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pblryh.mvvsvmpi.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pblryh.mvvsvmpi.MyBundle
 
 class MyApplicationService {
 
